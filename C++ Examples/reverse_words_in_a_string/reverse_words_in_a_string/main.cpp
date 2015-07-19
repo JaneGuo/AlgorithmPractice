@@ -8,18 +8,15 @@
 
 #include <iostream>
 #include <vector>
-/*
-void reverse_string(std::string::iterator start, std::string::iterator end){
+
+void reverse_string(std::string::iterator start, std::string::iterator end){    
     
-    char tmp;
-    while((start != end) && (start != end --)){
-        tmp = *start;
-        *start = *end;
-        *end= tmp;
+    while((start != end) && (start != end--)){
+        std::iter_swap(start, end);
         ++start;
     }
 }
-*/
+
 // This version is not trailing multiple spaces
 void reverseWords(std::string &s){
     reverse(s.begin(), s.end());
@@ -80,23 +77,6 @@ void reverseWords2(std::string &s){
     s += *iter;
 }
 
-/*
-void reverse_string(std::string *start, std::string *end){
-    
-    std::string tmp;
-    while(start < end){
-        tmp = *start;
-        *start = *end;
-        *end= tmp;
-        std::cout<<"reverse string "<<*start<<"\t"<<*end<<std::endl;
-        std::cout<<"this is a test";
-        start = start +1;
-        end = end +1;
-        std::cout<<"fuck";
-    }
-}
-*/
-
 int main(int argc, const char * argv[])
 {
 
@@ -105,7 +85,7 @@ int main(int argc, const char * argv[])
     reverseWords(a);
     
     std::string b = "abc";
-    reverse(b.begin(),b.end());
+    reverse_string(b.begin(),b.end());
     
     std::cout<<a<<std::endl;
     std::cout<<b<<std::endl;
