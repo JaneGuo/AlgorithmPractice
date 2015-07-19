@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6377DBF5-2E93-484C-B463-FE31267B9964</string>
+	<string>643C6BAB-C6F3-4114-B1CF-70A64D9B0546</string>
 	<key>IDESourceControlProjectName</key>
 	<string>reverse_words_in_a_string</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5EE9E3C5-DC17-4205-A845-A51D3F37311A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>AlgorithmPractice</string>
+			<string>reverse_words_in_a_string</string>
 		</dict>
 	</array>
 </dict>
