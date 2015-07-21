@@ -7,12 +7,32 @@
 //
 
 #include <iostream>
+#include "binary_tree.h"
 
 int main(int argc, const char * argv[])
 {
+    btree b;
+    b.insert(10);
+    b.insert2(10);
+    b.insert(6);
+    b.insert1(14);
+    b.insert1(5);
+    b.insert1(8);
+    b.insert(11);
+    b.insert(18);
 
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    b.in_order_print();
+    b.pre_order_print();
+    b.post_order_print();
+    b.count_node();
+    std::cout<<b.search(19)<<std::endl;
+    std::cout<<b.search(10)<<std::endl;
+    std::cout<<b.search1(11)<<std::endl;
+    
+    b.depth_of_tree();
+    b.destroy_tree();
+    
+    
     return 0;
 }
 

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3FCE1ADC1B5C824000A922FC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3FCE1ADB1B5C824000A922FC /* main.cpp */; };
 		3FCE1ADE1B5C824000A922FC /* binary_tree_implementation.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 3FCE1ADD1B5C824000A922FC /* binary_tree_implementation.1 */; };
+		3FCE1AE61B5C833700A922FC /* binary_tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3FCE1AE51B5C833700A922FC /* binary_tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		3FCE1AD81B5C824000A922FC /* binary_tree_implementation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = binary_tree_implementation; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FCE1ADB1B5C824000A922FC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		3FCE1ADD1B5C824000A922FC /* binary_tree_implementation.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = binary_tree_implementation.1; sourceTree = "<group>"; };
+		3FCE1AE41B5C82EB00A922FC /* binary_tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = binary_tree.h; sourceTree = "<group>"; };
+		3FCE1AE51B5C833700A922FC /* binary_tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = binary_tree.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				3FCE1ADB1B5C824000A922FC /* main.cpp */,
+				3FCE1AE41B5C82EB00A922FC /* binary_tree.h */,
 				3FCE1ADD1B5C824000A922FC /* binary_tree_implementation.1 */,
+				3FCE1AE51B5C833700A922FC /* binary_tree.cpp */,
 			);
 			path = binary_tree_implementation;
 			sourceTree = "<group>";
@@ -117,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FCE1AE61B5C833700A922FC /* binary_tree.cpp in Sources */,
 				3FCE1ADC1B5C824000A922FC /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
