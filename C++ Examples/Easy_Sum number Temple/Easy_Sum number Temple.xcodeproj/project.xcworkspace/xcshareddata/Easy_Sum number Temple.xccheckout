@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6817301-10D7-44E7-BE9E-CFF9E9AAC84D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Easy_Sum number Temple</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
+		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C++ Examples/Easy_Sum number Temple/Easy_Sum number Temple.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5EE9E3C5-DC17-4205-A845-A51D3F37311A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5EE9E3C5-DC17-4205-A845-A51D3F37311A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Easy_Sum number Temple</string>
+		</dict>
+	</array>
+</dict>
+</plist>
