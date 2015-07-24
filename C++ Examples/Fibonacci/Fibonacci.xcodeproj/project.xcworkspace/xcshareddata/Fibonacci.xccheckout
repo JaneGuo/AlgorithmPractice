@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8CA72F3D-3B28-4C19-A814-66CE6745B8C3</string>
+	<string>300B2A42-28F1-459C-8DB8-AF05B549DA9F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>permutaion of a char</string>
+	<string>Fibonacci</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
 		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++ Examples/permutaion of a char/permutaion of a char.xcodeproj/project.xcworkspace</string>
+	<string>C++ Examples/Fibonacci/Fibonacci.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
