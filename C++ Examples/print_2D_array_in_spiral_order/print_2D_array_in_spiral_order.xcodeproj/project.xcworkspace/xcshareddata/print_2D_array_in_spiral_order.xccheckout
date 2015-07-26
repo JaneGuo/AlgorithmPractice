@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>2DB518CC-8660-4285-B503-240EC357EF55</string>
+	<string>B454F617-5232-4491-90E2-1963DFC6D5EF</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Fibonacci</string>
+	<string>print_2D_array_in_spiral_order</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
 		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++ Examples/Fibonacci/Fibonacci.xcodeproj/project.xcworkspace</string>
+	<string>C++ Examples/print_2D_array_in_spiral_order/print_2D_array_in_spiral_order.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5EE9E3C5-DC17-4205-A845-A51D3F37311A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Fibonacci</string>
+			<string>print_2D_array_in_spiral_order</string>
 		</dict>
 	</array>
 </dict>
