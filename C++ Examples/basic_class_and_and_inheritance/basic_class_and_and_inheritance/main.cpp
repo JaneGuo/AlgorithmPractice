@@ -7,12 +7,44 @@
 //
 
 #include <iostream>
+using namespace std;
+
+#define NAME_SIZE 50
+
+class Person{
+    int id;
+    char name[NAME_SIZE];
+    
+public:
+    virtual ~Person(){
+        cout<< "Deleting a Person.\n";
+    }
+    virtual void aboutMe(){
+        cout<<"I am a person.\n";
+    }
+    virtual bool addCourse(string s) = 0;
+};
+
+class Student : public Person{
+public:
+    ~Student(){
+        cout<< "Deleting a student. \n";
+    }
+    void aboutMe(){
+        cout<<"I am a student. \n";
+    }
+    bool addCourse(string s){
+        cout<<"Added course "<<s<<" to student.\n"<<endl;
+        return true;
+    }
+};
 
 int main(int argc, const char * argv[])
 {
-
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    Person *p = new Student;
+    p->aboutMe();
+    p->addCourse("History");
+    delete p;
     return 0;
 }
 
