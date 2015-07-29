@@ -7,6 +7,7 @@
 //
 
 #include <iostream>
+#include <stack>
 using namespace std;
 
 struct Node{
@@ -107,6 +108,25 @@ void reverse_list(Node *&head){
     }
     head = prev;
 }
+//space complexity is O(n), iterative space complexity is O(1)
+void reverse_list_stack(Node *&head){
+    if(head == NULL) return;
+    stack<struct Node*> S;
+    Node *temp = head;
+    while(temp != NULL){
+        S.push(temp);
+        temp = temp->next;
+    }
+    head = S.top();
+    temp = S.top();
+    S.pop();
+    while(!S.empty()){
+        temp->next = S.top();
+        S.pop();
+        temp = temp->next;
+    }
+    temp->next = NULL;
+}
 
 void print_list(Node *head){
     if(head == NULL){
@@ -137,7 +157,10 @@ int main(int argc, const char * argv[])
     print_list(A);
     reverse_list(A);
     print_list(A);
-    insert_data(A,70, 7);
+    insert_data(A,70, 6);
+    print_list(A);
+    std::cout<<"reverse a list \n";
+    reverse_list_stack(A);
     print_list(A);
     
     //To be implement, to delete linked list and delete all nodes.
