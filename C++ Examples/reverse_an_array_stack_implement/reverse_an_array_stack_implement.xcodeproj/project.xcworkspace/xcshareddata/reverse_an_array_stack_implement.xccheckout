@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6922CD25-30F3-4159-920E-266C7B0060AA</string>
+	<string>291EFF0D-B1D1-4197-98B9-2699BDB0DA77</string>
 	<key>IDESourceControlProjectName</key>
-	<string>linkedList</string>
+	<string>reverse_an_array_stack_implement</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
 		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++ Examples/linkedList/linkedList.xcodeproj/project.xcworkspace</string>
+	<string>C++ Examples/reverse_an_array_stack_implement/reverse_an_array_stack_implement.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
