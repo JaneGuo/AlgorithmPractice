@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>91C6579F-EA3D-4583-BD69-B9BD126FD714</string>
+	<string>EBB24698-AFDD-4856-B552-DFF75E47F8B4</string>
 	<key>IDESourceControlProjectName</key>
-	<string>binary_search</string>
+	<string>basic_class_and_and_inheritance</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
 		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++ Examples/binary_search/binary_search.xcodeproj/project.xcworkspace</string>
+	<string>C++ Examples/basic_class_and_and_inheritance/basic_class_and_and_inheritance.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5EE9E3C5-DC17-4205-A845-A51D3F37311A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>binary_search</string>
+			<string>basic_class_and_and_inheritance</string>
 		</dict>
 	</array>
 </dict>
