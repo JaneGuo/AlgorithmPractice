@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>AB53388A-3EED-400F-8360-F2BC64D7364D</string>
+	<string>834E5D6D-611A-42FB-A26C-FA935661383A</string>
 	<key>IDESourceControlProjectName</key>
-	<string>primeNumber</string>
+	<string>factorsOfNumber</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
 		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++ Examples/primeNumber/primeNumber.xcodeproj/project.xcworkspace</string>
+	<string>C++ Examples/factorsOfNumber/factorsOfNumber.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
