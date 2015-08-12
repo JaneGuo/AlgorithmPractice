@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>97976C4B-EAF7-4774-A149-F790AEAAD087</string>
+	<string>3D90EB83-2A82-4FC6-ACC1-CE54D5B34F84</string>
 	<key>IDESourceControlProjectName</key>
-	<string>hashTable</string>
+	<string>reverse_an_array_stack_implement</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
 		<string>https://github.com/JaneGuo/AlgorithmPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++ Examples/hashTable/hashTable.xcodeproj/project.xcworkspace</string>
+	<string>C++ Examples/reverse_an_array_stack_implement/reverse_an_array_stack_implement.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5EE9E3C5-DC17-4205-A845-A51D3F37311A</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5EE9E3C5-DC17-4205-A845-A51D3F37311A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>hashTable</string>
+			<string>reverse_an_array_stack_implement</string>
 		</dict>
 	</array>
 </dict>

@@ -7,6 +7,7 @@
 //
 
 #include "binary_tree.h"
+#include <queue>
 
 /* This part is wrong
 void btree::destroy_tree(node *leaf){
@@ -132,6 +133,22 @@ void btree::in_order_print(){
     std::cout<<"binary tree in-order print:";
     in_order_print(root);
     std::cout<<std::endl;
+}
+
+//Level Order (Breadth Order) print
+void Level_order_print(node *root){
+    if(root == NULL) return;
+    std::queue<node *> Q;
+    Q.push(root);
+    while(!Q.empty()){
+        node *current = Q.front();
+        std::cout<<current->key_value<<"\t";
+        if(current->left != NULL)
+            Q.push(current->left);
+        if(current->right != NULL)
+            Q.push(current->right);
+        Q.pop();
+    }
 }
 
 // insert funtion using loop
